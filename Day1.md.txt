@@ -1,0 +1,79 @@
+# 🧑‍💻 IT Support Lab – Day 1
+
+## 📌 Overview
+This lab documents hands-on IT support practice performed in a Windows environment using Parallels Desktop on Mac (M2).
+---
+
+## 🧪 Task 1: New User Setup
+
+### 🔹 Task
+Set up a new employee account on a Windows system.
+
+### 🔹 Actions Performed
+- Opened Settings → Accounts
+- Created a new local user account (`employee1`)
+- Set up login credentials and security questions
+- Installed essential applications (Google Chrome and others)
+- Configured basic system settings (personalization, time zone, etc.)
+- Tested login functionality with the new user account
+- Network Troubleshooting
+
+### ✅ Result
+Successfully created and configured a new user account. The system is ready for use by a new employee.
+
+---
+
+## 🛠️ Task 2: System Performance Troubleshooting
+
+### 🔹 Problem
+The system experienced slow performance due to multiple applications running simultaneously.
+
+### 🔹 Actions Performed
+- Opened Task Manager to monitor system performance
+- Identified applications with high CPU and memory usage
+- Closed unnecessary background applications
+- Restarted the system to improve performance
+
+### ✅ Result
+System performance improved significantly after optimization and restart.
+
+---
+
+## 🌐 Task 3: Network Troubleshooting
+
+### 🔹 Problem
+The system had no internet connection due to Wi-Fi being turned off.
+
+### 🔹 Actions Performed
+- Turned off Wi-Fi to simulate a network issue
+- Re-enabled Wi-Fi connection
+- Opened Command Prompt
+- Ran the command: `ping google.com` to test connectivity
+
+### ✅ Result
+Internet connection was successfully restored and verified.
+
+---
+
+## 📚 Skills Practiced
+- User account creation and management
+- Basic system configuration
+- Performance troubleshooting
+- Task Manager usage
+- Application management
+- Network Troubleshooting
+
+---
+
+## 🚀 Tools Used
+- Windows 11 (Virtual Machine)
+- Parallels Desktop (Mac M2)
+- Task Manager
+- Google Chrome
+- Notepad++
+- Terminal
+
+---
+
+## 📈 Summary
+This lab provided practical experience in performing common IT support tasks such as setting up user accounts and resolving system performance issues including network troubleshooting.
