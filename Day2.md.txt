@@ -1,0 +1,28 @@
+# 🧑‍💻 IT Support Lab – Day 2
+
+## 🔐 Password Reset Issue
+- Reset password for user account
+- Verified login after reset
+- Result: User successfully accessed system
+
+## 👤 User Permission Issue
+- Changed user from Standard to Administrator
+- Allowed software installation and system changes
+- Result: Full access granted
+
+## 📦 Software Installation Issue
+- Attempted software installation
+- Identified permission issue
+- Reinstalled successfully using admin rights
+- Result: Software installed
+
+## 🌐 Network Troubleshooting
+- Used ipconfig and ping commands
+- Verified internet connectivity
+- Result: Network working correctly
+
+## 📚 Skills Practiced
+- Password management
+- User permissions
+- Software installation troubleshooting
+- Basic networking commands
