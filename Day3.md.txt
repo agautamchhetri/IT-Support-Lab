@@ -1,0 +1,33 @@
+# 🧑‍💻 IT Support Lab – Day 3
+
+## 📧 Browser Issue
+- Identified browser performance issue
+- Cleared cache and restarted browser
+- Result: Browser functioning normally
+
+## 💾 Disk Space Issue
+- Checked storage usage
+- Removed unnecessary files and apps
+- Result: Freed disk space and improved performance
+
+## 🖨️ Printer Setup (Simulated)
+- Added and configured printer
+- Set default printer
+- Result: Printer ready for use
+
+## 🔄 Windows Update
+- Checked and installed updates
+- Restarted system as needed
+- Result: System updated successfully
+
+## 🧪 General Troubleshooting
+- Performed system checks (CPU, storage, apps)
+- Restarted system
+- Result: System stabilized
+
+## 📚 Skills Practiced
+- Application troubleshooting
+- Storage management
+- Device setup
+- System updates
+- Independent problem solving
